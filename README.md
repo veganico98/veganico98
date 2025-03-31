@@ -1,16 +1,29 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-Olá! Seja bem vindo. Descanse na fogueira!
+<h1 align="center">Olá! Seja bem vindo ao meu perfil. </h1>
 
-<div>
+<div align=center>
+  <p>Descanse na fogueira!</p>
+
+  ![Bonfire](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl1aW85c3J4dzlob2p1Z2oxMzdpMGF2ZWszMjNiMzF0ZGduMTBhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J20KhwQ6sL0CGiEVrz/giphy.gif)
+</div>
+
+<div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-<div></div>
+##
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolas-linares-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/nikolas.l.oliveira"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="nicolaslinaresoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 <!--
 **veganico98/veganico98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
