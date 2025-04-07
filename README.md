@@ -4,7 +4,7 @@
 <div align=center>
   <h3>Descanse na fogueira...</h3>
 
-  ![Bonfire](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl1aW85c3J4dzlob2p1Z2oxMzdpMGF2ZWszMjNiMzF0ZGduMTBhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J20KhwQ6sL0CGiEVrz/giphy.gif)
+  ![Bonfire](https://media.tenor.com/giNrzT0tQGsAAAAj/bonfire-dark-souls.gif)
 </div>
 
 <div align="center">
