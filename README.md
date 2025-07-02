@@ -2,7 +2,7 @@
 <h1 align="center">Hello Everyone, welcome to my Profile 👋</h1>
 <h3>My name is Nicolas Linares.</h3>
 <p>I'm from Brazil and currently looking for an opportunity to grow and improve my skills in Web Development.</p>
-<p>At the moment, I'm improving my skills in vanilla PHP, but I will soon start studying Laravel.</p>
+<p>At the moment, I'm improving my skills in PHP, but I will soon start studying Laravel.</p>
 
 <div align=center>
   <h3>Rest at Bonfire...</h3>
