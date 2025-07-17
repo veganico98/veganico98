@@ -1,4 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img align="center" alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&text=Nicolas%20Linares" />
+
 <h1 align="center">Hello Everyone, welcome to my Profile 👋</h1>
 <h3>My name is Nicolas Linares.</h3>
 <p>I'm from Brazil and currently looking for an opportunity to grow and improve my skills in Web Development.</p>
