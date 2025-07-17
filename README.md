@@ -1,8 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <!-- <img align="center" alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&text=Nicolas%20Linares"/> -->
-
-<img align="center" alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&customColorList=0,2,2,5,30&text=Nicolas%20Linares&fontColor=B88A3B&section=header"/>
+<div align=center>
+  <img alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&customColorList=0,2,2,5,30&text=Nicolas%20Linares&fontColor=B88A3B&section=header"/>
+</div>
 
 
 <h1 align="center">Hello Everyone, welcome to my Profile 👋</h1>
