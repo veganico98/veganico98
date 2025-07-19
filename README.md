@@ -19,14 +19,14 @@
 </div>
 
 <p align="center">
-  <p>Front-End Languages</p>
+  <p>Front-End Skills</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite" />
   </a>
 </p>
 <hr>
 <p align="center">
-  <p>Back-End Languages</p>
+  <p>Back-End Skills</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,python,java" />
   </a>
