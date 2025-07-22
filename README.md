@@ -47,6 +47,11 @@
 </p>
 <hr>
 
+<!-- <div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veganico98&show_icons=true&theme=radical)
+</div> -->
+
 <div align=center>
   
   ![](https://komarev.com/ghpvc/?username=veganico98)
