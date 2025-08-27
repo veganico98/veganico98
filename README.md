@@ -1,6 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!-- <img align="center" alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&text=Nicolas%20Linares"/> -->
 <div align=center>
   <img alt="Capsule" src="https://capsule-render.vercel.app/api?type=waving&height=366&color=gradient&customColorList=0,2,2,5,30&text=Nicolas%20Linares&fontColor=B88A3B&section=header"/>
 </div>
@@ -8,8 +7,11 @@
 
 <h1 align="center">Hello Everyone, welcome to my Profile 👋</h1>
 <h3>My name is Nicolas Linares.</h3>
-<p>I'm from Brazil and currently looking for an opportunity to grow and improve my skills in Web Development.</p>
-<p>At the moment, I'm improving my skills in PHP, but I will soon start studying Laravel.</p>
+<p>
+  I’m from Brazil and currently looking for an opportunity to grow and improve my skills in Web Development.
+Right now, I’m focusing on strengthening my knowledge in TypeScript with NestJS, while also improving my skills in PHP and soon in Laravel.
+I hold a degree in Systems Analysis and Development, and I am currently pursuing a postgraduate degree in Full-Stack Development.
+</p>
 
 <div align=center>
   
@@ -28,7 +30,7 @@
 <p align="center">
   <p>Back-End Skills</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,java" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,ts,nest" />
   </a>
 </p>
 <hr>
@@ -48,9 +50,8 @@
 <hr>
 
 <!-- <div>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veganico98&show_icons=true&theme=radical)
-</div> -->
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veganico98&show_icons=true&theme=radical)
+      </div> -->
 
 <div align=center>
   
