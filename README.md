@@ -49,9 +49,10 @@ I hold a degree in Systems Analysis and Development, and I am currently pursuing
 </p>
 <hr>
 
-<!-- <div>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veganico98&show_icons=true&theme=radical)
-      </div> -->
+<div> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veganico98&show_icons=true&theme=radical) 
+</div> 
 
 <div align=center>
   
