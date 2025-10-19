@@ -44,7 +44,7 @@ I hold a degree in Systems Analysis and Development, and I am currently pursuing
 <p align="center">
   <p>Tools</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,powershell,ps,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman" />
   </a>
 </p>
 <hr>
